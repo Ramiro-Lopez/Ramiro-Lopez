@@ -1,5 +1,4 @@
-- Hi, I’m Ramiro-Lopez
-- I’m interested in Data Science 
+- Hi, I’m a data science student at code up. 
 
 <!---
 Ramiro-Lopez/Ramiro-Lopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
